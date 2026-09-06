@@ -1,0 +1,6 @@
+{
+  "name": "Thaisar - ထိုင်းဘာသာစကားသင်တန်းကျောင်း",
+  "description": "မသိမဖြစ်ထိုင်းစာလုံး (၁၂၀) လုံး ဝေါဟာရများ၊ အသံထွက်၊ Flashcards နှင့် နေ့စဉ် Quiz လေ့ကျင့်ခန်း",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
